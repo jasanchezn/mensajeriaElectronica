@@ -1,4 +1,4 @@
-# Archivo que contiene la instancia de la aplicación web que se está trabajando
+# JSN -  Archivo que contiene la instancia de la aplicación web que se está trabajando
 
 import os
 from . import dbc

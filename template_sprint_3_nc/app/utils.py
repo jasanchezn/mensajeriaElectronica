@@ -1,4 +1,4 @@
-# Archivo de utilidad que contienen validaciones que pueden ser aplicadas como reglas de negocio
+# JSN -  Archivo de utilidad que contienen validaciones que pueden ser aplicadas como reglas de negocio
  
 import re 
 from validate_email import validate_email
